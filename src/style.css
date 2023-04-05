@@ -1,0 +1,51 @@
+nav {
+  height: 10vh;
+  background-color: transparent;
+}
+
+section {
+  height: 90vh;
+}
+
+.text-container h1 {
+  margin: 0;
+  font-size: 150px;
+  color: rgba(225, 225, 225, 0.01);
+  background-image: url("./assets/1132747_OQ3OW80.jpg");
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  animation: animate 15s ease-in-out infinite;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    background-position: left top;
+  }
+  25% {
+    background-position: right bottom;
+  }
+  50% {
+    background-position: left bottom;
+  }
+  75% {
+    background-position: right top;
+  }
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
