@@ -1,21 +1,66 @@
 export default function Navbar() {
   return (
     <header data-bs-theme="dark">
-      <nav className="navbar navbar-dark shadow">
+      <nav className="navbar shadow fixed-top">
         <div className="container">
-          <a href="#" className="navbar-brand d-flex align-items-center">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
-              fill="currentColor"
-              className="bi bi-fire"
-              viewBox="0 0 16 16"
-            >
-              <path d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16Zm0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15Z" />
-            </svg>
-            <strong>Blaze</strong>
-          </a>
+          <div className="navbar-brandr">
+            <img src="src\assets\eielogo.png" alt="EIE logo" width="64px" />
+            <h4 className="d-inline">Blaze 2K23</h4>
+          </div>
+          <button
+            className="navbar-toggler"
+            type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasNavbar"
+            aria-controls="offcanvasNavbar"
+            aria-label="Toggle navigation"
+          >
+            <span className="navbar-toggler-icon"></span>
+          </button>
+          <div
+            className="offcanvas offcanvas-end navcolor"
+            tabIndex="-1"
+            id="offcanvasNavbar"
+            aria-labelledby="offcanvasNavbarLabel"
+          >
+            <div className="offcanvas-header">
+              <h5 className="offcanvas-title" id="offcanvasNavbarLabel">
+                Navigation
+              </h5>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="offcanvas"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="offcanvas-body">
+              <ul className="navbar-nav justify-content-end flex-grow-1 pe-3">
+                <li className="nav-item">
+                  <a className="nav-link active" href="#About">
+                    About
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#Events">
+                    Events
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#Contact">
+                    Contact
+                  </a>
+                </li>
+                <li className="nav-item d-flex justify-content-center align-items-center flex-column">
+                  <img src="src\assets\eielogo.png" alt="" width="300px" />
+                  <h6>
+                    &copy; Copyright 2023
+                    <br /> All rights reserved
+                  </h6>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
       </nav>
     </header>

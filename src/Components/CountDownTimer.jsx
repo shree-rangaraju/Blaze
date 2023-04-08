@@ -33,23 +33,26 @@ export default function CountDownTimer() {
   });
 
   return (
-    <span className="fw-light fs-3">
-      <span className="fw-light fs-1" id="day">
-        {timeLeft.days + " "}
+    <span className="fw-light fs-3" id="Timer">
+      <span className="fw-bold fs-1" id="day">
+        &nbsp;{timeLeft.days + " "}
       </span>
-      Days :
-      <span className="fw-light fs-1" id="hour">
+      &nbsp;Days :&nbsp;
+      <span className="fw-bold fs-1" id="hour">
         {" " + timeLeft.hours + " "}
       </span>
-      Hours :
-      <span className="fw-light fs-1" id="minute">
+      &nbsp;Hours
+      <span id="split">{" : "}</span>
+      <br className="timeBreak" />
+      &nbsp;
+      <span className="fw-bold fs-1" id="minute">
         {" " + timeLeft.minutes + " "}
       </span>
-      Minutes :
-      <span className="fw-light fs-1" id="second">
+      &nbsp;Minutes :&nbsp;
+      <span className="fw-bold fs-1" id="second">
         {" " + timeLeft.seconds + " "}
       </span>
-      Seconds
+      &nbsp;Seconds
     </span>
   );
 }
