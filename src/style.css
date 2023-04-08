@@ -50,6 +50,7 @@ a {
   background-image: url("./assets/1132747_OQ3OW80.jpg");
   background-repeat: repeat;
   -webkit-background-clip: text;
+  background-clip: text;
   animation: animate 15s ease-in-out infinite;
   text-align: center;
   text-transform: uppercase;
