@@ -1,7 +1,12 @@
 export default function Quote() {
   return (
     <div className="quote p-3 text-center shadow">
-      <img src="src\assets\undraw_fans_re_cri3.svg" alt="" width="250px" />
+      <img
+        src="static/undraw_fans_re_cri3.svg"
+        alt="fans image"
+        width="250px"
+        type="image/svg+xml"
+      />
       <div className="mt-5">
         <p className="fs-5 fw-light">
           Unleash your inner adventurer and compete for glory at Blaze - the

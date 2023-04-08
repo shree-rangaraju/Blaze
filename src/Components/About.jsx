@@ -5,7 +5,12 @@ export default function About() {
         <h1 className="fs-1">About us</h1>
       </div>
       <div className="d-flex justify-content-center align-items-center flex-column">
-        <img src="src\assets\eielogo.png" alt="EIE Logo" width="300px" />
+        <img
+          src="static/eielogo.png"
+          alt="EIE Logo"
+          width="300px"
+          type="image/png"
+        />
         <p className="fs-5 fw-light container text-center mb-5">
           Blaze is an inter college event organized by the Department of
           Electronics and Instrumentation Engineering of GCT, Coimbatore to

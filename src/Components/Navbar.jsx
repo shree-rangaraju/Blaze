@@ -4,7 +4,12 @@ export default function Navbar() {
       <nav className="navbar shadow fixed-top">
         <div className="container">
           <div className="navbar-brandr">
-            <img src="src\assets\eielogo.png" alt="EIE logo" width="64px" />
+            <img
+              src="static/eielogo.png"
+              alt="EIE logo"
+              width="64px"
+              type="image/png"
+            />
             <h4 className="d-inline">Blaze 2K23</h4>
           </div>
           <button
@@ -52,7 +57,12 @@ export default function Navbar() {
                   </a>
                 </li>
                 <li className="nav-item d-flex justify-content-center align-items-center flex-column">
-                  <img src="src\assets\eielogo.png" alt="" width="300px" />
+                  <img
+                    src="static/eielogo.png"
+                    alt="EIE logo"
+                    width="300px"
+                    type="image/png"
+                  />
                   <h6>
                     &copy; Copyright 2023
                     <br /> All rights reserved
