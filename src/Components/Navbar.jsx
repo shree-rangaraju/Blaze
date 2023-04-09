@@ -13,7 +13,7 @@ export default function Navbar() {
             <h4 className="d-inline">BLAZE 2K23</h4>
           </div>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNavAltMarkup"
@@ -21,17 +21,17 @@ export default function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav nav-underline ms-auto align-items-center">
-              <a class="nav-link fs-5" href="#About">
+          <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div className="navbar-nav nav-underline ms-auto align-items-center">
+              <a className="nav-link fs-5" href="#About">
                 About
               </a>
-              <a class="nav-link fs-5" href="#Events">
+              <a className="nav-link fs-5" href="#Events">
                 Events
               </a>
-              <a class="nav-link fs-5" href="#Contact">
+              <a className="nav-link fs-5" href="#Contact">
                 Contact
               </a>
             </div>
