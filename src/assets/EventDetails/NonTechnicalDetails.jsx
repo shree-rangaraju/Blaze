@@ -33,7 +33,7 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non-refundable.`,
-      rewards: `1. The winners are awarded with pool price of Rs.3000/-
+      rewards: `1. The Winners are awarded with pool price of Rs.3000/-
       
       2.Selected top 2 film will be shortlisted and screened in the Blaze funtion. 
 
@@ -82,7 +82,7 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The winners are awarded with pool price of Rs.3000/-`,
+      rewards: `The Winners are awarded with pool price of Rs.3000/-`,
       gformLink: `https://forms.gle/9WVkKb1wJeea3FsL8`,
       registrationDeadLine: ``,
       submissionDeadLine: ``,

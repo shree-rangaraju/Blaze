@@ -55,7 +55,7 @@ export default {
       For non-GCTians: Rs.300 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The winners are awarded with pool price of Rs.5000/-`,
+      rewards: `The Winners are awarded with pool price of Rs.5000/-`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfXbijpq0IqPV84YsfenvBnrHHVXPCEsJpOQUbQMUjVu5TSKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link `,
       registrationDeadLine: `16 Apr, 2023`,
       submissionDeadLine: ``,
@@ -105,7 +105,7 @@ export default {
       For non-GCTians: Rs.150/-
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners and Runners are awarded with pool price of Rs.3000/-
+      rewards: `The Winners and Runners are awarded with pool price of Rs.3000/- and Certificate of Achievement.
 
       Other participants are provided with participation certificate.`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLScPm2-uOa6kwnWEjZd0MDzgyP8Re7-y26rxgv_FF6nkqZhiQg/viewform?vc=0&c=0&w=1&flr=0`,
@@ -140,7 +140,7 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The winners are awarded with pool price of Rs.2000/-`,
+      rewards: `The Winners are awarded with pool price of Rs.2000/-`,
       gformLink: `https://forms.gle/6ZNW6RhA6LS3xwDN8`,
       registrationDeadLine: `16 Apr, 2023`,
       submissionDeadLine: ``,
