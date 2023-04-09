@@ -27,8 +27,8 @@ export default {
       judgingParameter: `1. Films will be judged entirely on the concept, technical aspects etc.
 
       2. In case of any issues the Judge's decision is final.`,
-      contactDetails: `Thivagar : +91 90802 09017
-      Mohana : +91 88259 23191`,
+      contactDetails: `Thivagar Murugan V : +91 90802 09017
+      Mohana D : +91 88259 23191`,
       registrationFee: `For GCTians: Rs.150 per team.
       For non-GCTians: Rs.200 per team.
       
@@ -76,8 +76,8 @@ export default {
         The team mates are given points for each round and the team securing maximum points will be rewarded.`,
       ],
       judgingParameter: `The judging will be based on the teammate's involvement, compatibility, and how effectively they showcase their skills.`,
-      contactDetails: `Kanitha.M : +91 93608 76166
-      Jeevakesavan.D : +91 87607 52082`,
+      contactDetails: `Kanitha M : +91 93608 76166
+      Jeevakesavan D : +91 87607 52082`,
       registrationFee: `For GCTians: Rs.150 per team.
       For non-GCTians: Rs.200 per team.
       

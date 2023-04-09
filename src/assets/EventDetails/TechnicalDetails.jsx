@@ -49,8 +49,8 @@ export default {
         <h4 className="fs-5 mt-3">Presentation: </h4>,
         `Participants will have the opportunity to present their gliders to the judges and explain their design and construction process. Clear and concise presentations will score higher.`,
       ],
-      contactDetails: `Suntrakanesh : +91 91505 50821
-      Harikishan  : +91 86674 37135`,
+      contactDetails: `Suntrakanesh SU : +91 91505 50821
+      Harikishan V : +91 86674 37135`,
       registrationFee: `For GCTians: Rs.250 per team.
       For non-GCTians: Rs.300 per team.
       
@@ -76,7 +76,7 @@ export default {
       2. ERC report
       3. BOM file
       4. Pick and Place file              
-   participants should submit the greber file of PCB design that is mandatory and also submit atleast 2 files from remaining 3 files with in stipulated time.`,
+   participants should submit the gerber file of PCB design that is mandatory and also submit atleast 2 files from remaining 3 files with in stipulated time.`,
       roundDetails: ``,
       judgingParameter: [
         <span className="mt-1">Quality of layout:</span>,
@@ -97,7 +97,7 @@ export default {
         </span>,
         ` 20 points
 
-      Based on the above critarias, the design will be evaluated.`,
+      Based on the above criteria, the design will be evaluated.`,
       ],
       contactDetails: `Sham Venkat J : +91 63812 09097
       Subash A : +91 63742 62775`,
