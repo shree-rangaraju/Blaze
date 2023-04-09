@@ -21,7 +21,9 @@ export default function Footer() {
       </div>
       <div className="container px-4 mt-5 d-flex justify-content-between">
         <p className="mb-1">
-          Blaze(Logo) <br />
+          <div className="text-container">
+            <h1 className="fs-5">Blaze</h1>
+          </div>
           &copy; Copyright 2023
           <br /> All rights reserved
         </p>

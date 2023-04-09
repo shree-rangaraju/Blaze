@@ -88,7 +88,7 @@ export default {
         ` 50 points`,
         <span className="mt-1">
           <br />
-          PCB size and limited components used :
+          PCB size :
         </span>,
         ` 20 points
 
@@ -135,7 +135,7 @@ export default {
       rewards: `The winning team will be announced at the end of the contest. 
 
       The winning team will receive a cash prize and a certificate of achievement.`,
-      gformLink: ``,
+      gformLink: `https://forms.gle/6ZNW6RhA6LS3xwDN8`,
     },
   ],
 };

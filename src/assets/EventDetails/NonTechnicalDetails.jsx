@@ -68,11 +68,13 @@ export default {
         
         The team mates are given points for each round and the team securing maximum points will be rewarded.`,
       ],
-      judgingParameter: `The judging will be based on the teammates' involvement, compatibility, and how effectively they showcase their skills.`,
+      judgingParameter: `The judging will be based on the teammate's involvement, compatibility, and how effectively they showcase their skills.`,
       contactDetails: `Kanitha.M : +91 93608 76166
       Jeevakesavan.D : +91 87607 52082`,
       registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest. The registration fee is non - refundable.`,
-      rewards: ``,
+      rewards: `The winning team will be announced at the end of the contest. 
+
+      The winning team will receive a cash prize and a certificate of achievement.`,
       gformLink: `https://forms.gle/9WVkKb1wJeea3FsL8`,
     },
   ],
