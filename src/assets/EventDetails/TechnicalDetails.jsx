@@ -55,7 +55,7 @@ export default {
       For non-GCTians: Rs.300 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The winners are awarded with pool price of Rs.4000/-`,
+      rewards: `The winners are awarded with pool price of Rs.5000/-`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfXbijpq0IqPV84YsfenvBnrHHVXPCEsJpOQUbQMUjVu5TSKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link `,
     },
     {
