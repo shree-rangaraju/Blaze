@@ -126,18 +126,16 @@ export default function EventCard({
               <h4 className="fs-4 mt-4">Registration Fee</h4>
               <span className="detailColor">{registrationFee}</span>
               {registrationDeadLine && (
-                <h4 className="fs-4 mt-4">
-                  Registation DeadLine:{" "}
-                  <span className="detailColor fs-5">
-                    {registrationDeadLine}
-                  </span>
-                </h4>
+                <h4 className="fs-4 mt-4">Registation DeadLine: </h4>
               )}
               {registrationDeadLine && (
-                <h4 className="fs-4 mt-4">
-                  Submission DeadLine:{" "}
-                  <span className="detailColor fs-5">{submissionDeadLine}</span>
-                </h4>
+                <span className="detailColor">{registrationDeadLine}</span>
+              )}
+              {submissionDeadLine && (
+                <h4 className="fs-4 mt-4">Submission DeadLine </h4>
+              )}
+              {submissionDeadLine && (
+                <span className="detailColor">{submissionDeadLine}</span>
               )}
               {rewards && <h4 className="fs-4 mt-4">Reward Details</h4>}
               {rewards && <span className="detailColor">{rewards}</span>}
