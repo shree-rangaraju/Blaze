@@ -27,7 +27,9 @@ export default {
       2. In case of any issues the Judge's decision is final.`,
       contactDetails: `Thivagar : +91 90802 09017
       Mohana : +91 88259 23191`,
-      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest. The registration fee is non-refundable.`,
+      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest.
+      
+      The registration fee is non-refundable.`,
       rewards: `1. The winners are awarded with pool price of Rs.1700/-
       
       2.Selected top 2 film will be shortlisted and screened in the Blaze funtion. 
@@ -71,7 +73,9 @@ export default {
       judgingParameter: `The judging will be based on the teammate's involvement, compatibility, and how effectively they showcase their skills.`,
       contactDetails: `Kanitha.M : +91 93608 76166
       Jeevakesavan.D : +91 87607 52082`,
-      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest. The registration fee is non - refundable.`,
+      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest.
+      
+      The registration fee is non - refundable.`,
       rewards: `The winning team will be announced at the end of the contest. 
 
       The winning team will receive a cash prize and a certificate of achievement.`,

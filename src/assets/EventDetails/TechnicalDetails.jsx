@@ -49,9 +49,12 @@ export default {
         <h4 className="fs-5 mt-3">Presentation: </h4>,
         `Participants will have the opportunity to present their gliders to the judges and explain their design and construction process. Clear and concise presentations will score higher.`,
       ],
-      contactDetails: `Suntrakanesh: +91 91505 50821`,
+      contactDetails: `Suntrakanesh: +91 91505 50821
+      Harish  : +91 89252 34490`,
       registrationFee: `For GCTians: Rs.250 per team.
-      For non-GCTians: Rs.300 per team.`,
+      For non-GCTians: Rs.300 per team.
+      
+      The registration fee is non - refundable.`,
       rewards: `The winners are awarded with pool price of Rs.4000/-`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfXbijpq0IqPV84YsfenvBnrHHVXPCEsJpOQUbQMUjVu5TSKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link `,
     },
@@ -97,7 +100,9 @@ export default {
       contactDetails: `Sham Venkat J : +91 63812 09097
       Subash A : +91 63742 62775`,
       registrationFee: `For GCTians: Rs.100/-
-      For non-GCTians: Rs.150/-`,
+      For non-GCTians: Rs.150/-
+      
+      The registration fee is non - refundable.`,
       rewards: `The Winners are awarded with pool price of Rs.3000/-
 
       Winners and Runners will be awarded with cash price and Certificate of Achievement.
