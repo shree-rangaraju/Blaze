@@ -65,7 +65,7 @@ export default {
       eventIdName: `pcbdesign`,
       eventName: `PCB DESIGN`,
       eventImage: `https://images.unsplash.com/photo-1651720602149-7789f159b028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80`,
-      eventDate: `15,16 Apr, 2023`,
+      eventDate: `15 Apr, 2023`,
       eventShortDetails: `Step into the world of circuit boards and let your imagination run wild. Our PCB Designing Event is calling your name! Come strut your stuff and showcase your skills in any convenient software. With your talent, the possibilities are endless. Are you up for the challenge?`,
       eventLongDetails: `Printed circuit board (PCB) design brings your electronic circuits to life in the physical form.So we have took a iniative to give a platform to showcase your PCB designing skills.This is a designing event to evaluate the PCB designing skills of each and every participants. Participants Should design a PCB in any convenient software for given schematic circuit.`,
       eventMode: `Online`,
@@ -105,9 +105,7 @@ export default {
       For non-GCTians: Rs.150/-
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners are awarded with pool price of Rs.3000/-
-
-      Winners and Runners will be awarded with cash price and Certificate of Achievement.
+      rewards: `The Winners and Runners are awarded with pool price of Rs.3000/-
 
       Other participants are provided with participation certificate.`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLScPm2-uOa6kwnWEjZd0MDzgyP8Re7-y26rxgv_FF6nkqZhiQg/viewform?vc=0&c=0&w=1&flr=0`,
