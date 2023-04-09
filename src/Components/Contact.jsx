@@ -8,7 +8,7 @@ export default function Contact() {
       <h5>
         Function <br /> Co-ordinators
       </h5>
-      <div className="container d-flex justify-content-evenly align-items-center contactNumbers">
+      <div className="container d-flex justify-content-evenly align-items-center contactNumbers mt-3">
         <div>
           <h3 className="fw-light">Ram Bharath</h3>
           <h6 className="fw-light mt-3">+91 95008 88216</h6>
@@ -18,7 +18,7 @@ export default function Contact() {
           <h6 className="fw-light mt-3">+91 94892 32269</h6>
         </div>
       </div>
-      <h5>Social Media</h5>
+      <h5 className="mt-3">Social Media</h5>
       <div className="container">
         <a href="https://www.linkedin.com/company/electronics-and-instrumentation-engineering-gct/about/">
           <img
