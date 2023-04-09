@@ -15,6 +15,8 @@ export default function EventCard({
   registrationFee,
   rewards,
   gformLink,
+  registrationDeadLine,
+  submissionDeadLine,
 }) {
   const style = { whiteSpace: "pre-line", textAlign: "left" };
   return (
@@ -123,6 +125,20 @@ export default function EventCard({
               )}
               <h4 className="fs-4 mt-4">Registration Fee</h4>
               <span className="detailColor">{registrationFee}</span>
+              {registrationDeadLine && (
+                <h4 className="fs-4 mt-4">
+                  Registation DeadLine:{" "}
+                  <span className="detailColor fs-5">
+                    {registrationDeadLine}
+                  </span>
+                </h4>
+              )}
+              {registrationDeadLine && (
+                <h4 className="fs-4 mt-4">
+                  Submission DeadLine:{" "}
+                  <span className="detailColor fs-5">{submissionDeadLine}</span>
+                </h4>
+              )}
               {rewards && <h4 className="fs-4 mt-4">Reward Details</h4>}
               {rewards && <span className="detailColor">{rewards}</span>}
               {contactDetails && <h4 className="fs-4 mt-4">Contact</h4>}

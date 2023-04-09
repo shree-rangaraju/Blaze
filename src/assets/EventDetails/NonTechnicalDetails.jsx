@@ -12,14 +12,16 @@ export default {
       rules: ``,
       guidelines: `1. The film must be of highest quality possible.
 
-      2. Films once entered cannot be withdrawn.
+      2. Film shot using smart phones are also allowed.
+
+      3. Films once entered cannot be withdrawn.
       
-      3. There is no particular theme for the short film.
+      4. There is no particular theme for the short film.
       The duration for the short film must be from 3 minutes - 18 minutes.
 
-      4. The short film must be original and no watermark of any kind should be on the film.
+      5. The short film must be original and no watermark of any kind should be on the film.
 
-      5. Adult content of any kind will not be entertained and would lead to direct disqualification.`,
+      6. Adult content of any kind will not be entertained and would lead to direct disqualification.`,
       submissionDetails: `Last date submission on 18th April 2023.`,
       roundDetails: ``,
       judgingParameter: `1. Films will be judged entirely on the concept, technical aspects etc.
@@ -27,7 +29,8 @@ export default {
       2. In case of any issues the Judge's decision is final.`,
       contactDetails: `Thivagar : +91 90802 09017
       Mohana : +91 88259 23191`,
-      registrationFee: `Each team must pay a registration fee of Rs.200/- to enter the contest.
+      registrationFee: `For GCTians: Rs.150 per team.
+      For non-GCTians: Rs.200 per team.
       
       The registration fee is non-refundable.`,
       rewards: `1. The winners are awarded with pool price of Rs.3000/-
@@ -36,6 +39,8 @@ export default {
 
       3.Trophies along with certificates will be awarded for overall excellence to the best cinematography and director(s) of two short films chosen by judges.`,
       gformLink: `https://forms.gle/X98ov5Jhhi1uvJhKA`,
+      registrationDeadLine: ``,
+      submissionDeadLine: ``,
     },
     {
       id: 1,
@@ -73,11 +78,14 @@ export default {
       judgingParameter: `The judging will be based on the teammate's involvement, compatibility, and how effectively they showcase their skills.`,
       contactDetails: `Kanitha.M : +91 93608 76166
       Jeevakesavan.D : +91 87607 52082`,
-      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest.
+      registrationFee: `For GCTians: Rs.150 per team.
+      For non-GCTians: Rs.200 per team.
       
       The registration fee is non - refundable.`,
       rewards: `The winners are awarded with pool price of Rs.3000/-`,
       gformLink: `https://forms.gle/9WVkKb1wJeea3FsL8`,
+      registrationDeadLine: ``,
+      submissionDeadLine: ``,
     },
   ],
 };
