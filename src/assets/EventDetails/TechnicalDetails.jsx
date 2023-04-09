@@ -115,7 +115,7 @@ export default {
       eventIdName: `dataartistry`,
       eventName: `DATA ARTISTRY`,
       eventImage: `https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80`,
-      eventDate: `20 Apr, 2022`,
+      eventDate: `20 Apr, 2023`,
       eventShortDetails: `Do you have a passion for telling stories with data? Enter the Data Artistry Contest and see if you have what it takes to leave your competition in the dust! Your skills are waiting to be showcased - is this your time to shine?`,
       eventLongDetails: `It's time to give flight to your imagination and take control of the Data design world! The Data Artistry contest is calling on all the daring and imaginative candidates out there. Show us what you got with your analytical and visualization skills. You have the power to create designs that will transform the way people view data insights. Gear up and be part of the competition!`,
       eventMode: `Offline`,

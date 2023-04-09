@@ -27,10 +27,10 @@ export default {
       2. In case of any issues the Judge's decision is final.`,
       contactDetails: `Thivagar : +91 90802 09017
       Mohana : +91 88259 23191`,
-      registrationFee: `Each team must pay a registration fee of Rs.199/- to enter the contest.
+      registrationFee: `Each team must pay a registration fee of Rs.200/- to enter the contest.
       
       The registration fee is non-refundable.`,
-      rewards: `1. The winners are awarded with pool price of Rs.1700/-
+      rewards: `1. The winners are awarded with pool price of Rs.3000/-
       
       2.Selected top 2 film will be shortlisted and screened in the Blaze funtion. 
 
