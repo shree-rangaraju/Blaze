@@ -126,13 +126,13 @@ export default function EventCard({
               <h4 className="fs-4 mt-4">Registration Fee</h4>
               <span className="detailColor">{registrationFee}</span>
               {registrationDeadLine && (
-                <h4 className="fs-4 mt-4">Registration DeadLine </h4>
+                <h4 className="fs-4 mt-4">Registration DeadLine</h4>
               )}
               {registrationDeadLine && (
                 <span className="detailColor">{registrationDeadLine}</span>
               )}
               {submissionDeadLine && (
-                <h4 className="fs-4 mt-4">Submission DeadLine </h4>
+                <h4 className="fs-4 mt-4">Submission DeadLine</h4>
               )}
               {submissionDeadLine && (
                 <span className="detailColor">{submissionDeadLine}</span>
