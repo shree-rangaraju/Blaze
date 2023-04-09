@@ -50,7 +50,7 @@ export default {
         `Participants will have the opportunity to present their gliders to the judges and explain their design and construction process. Clear and concise presentations will score higher.`,
       ],
       contactDetails: `Suntrakanesh : +91 91505 50821
-      Harikishan  : +91 89252 34490`,
+      Harikishan  : +91 86674 37135`,
       registrationFee: `For GCTians: Rs.250 per team.
       For non-GCTians: Rs.300 per team.
       
