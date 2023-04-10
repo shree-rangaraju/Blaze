@@ -11,7 +11,7 @@ export default function About() {
           width="300px"
           type="image/png"
         />
-        <p className="fs-5 fw-light container text-center mb-5">
+        <p className="fs-5 fw-light container text-center mb-5 mobileSize">
           Blaze is an inter college event organized by the Department of
           Electronics and Instrumentation Engineering of GCT, Coimbatore to
           ensure the active participation of the students of other colleges in

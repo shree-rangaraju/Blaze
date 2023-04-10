@@ -8,7 +8,7 @@ export default function Quote() {
         type="image/svg+xml"
       />
       <div className="mt-5">
-        <p className="fs-5 fw-light">
+        <p className="fs-5 fw-light mobileSize">
           Unleash your inner adventurer and compete for glory at Blaze - the
           intercollege fest that's burning up the competition!
           <br /> With technical and non-technical events, be a part of something

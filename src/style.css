@@ -118,6 +118,9 @@ a {
   .coverEvent * {
     font-size: 110% !important;
   }
+  .mobileSize {
+    font-size: 80% !important;
+  }
 }
 
 @media (max-width: 425px) {
