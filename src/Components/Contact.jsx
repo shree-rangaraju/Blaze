@@ -2,7 +2,7 @@ export default function Contact() {
   return (
     <div id="Contact" className="text-center p-5 my-2">
       <div className="text-container">
-        <h1 className="fs-1">Get in Touch! </h1>
+        <h1 className="fs-1">Get in Touch!</h1>
       </div>
       <p>If you have any queries</p>
       <h5>

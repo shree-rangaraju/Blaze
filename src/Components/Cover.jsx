@@ -9,7 +9,7 @@ export default function Cover() {
         <div className="text-container">
           <h1>Blaze</h1>
         </div>
-        <p className="fs-4">
+        <p className="fs-5">
           A remarkably rare occurrence that must not be missed.
         </p>
         <p>
