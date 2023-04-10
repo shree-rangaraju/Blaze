@@ -18,7 +18,7 @@ export default {
       
       4. There is no particular theme for the short film.
       
-      5. The duration for the short film must be from 3 minutes - 18 minutes.
+      5. The duration for the short film must be from 3 - 18 minutes.
 
       6. The short film must be original and no watermark of any kind should be on the film.
 
