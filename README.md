@@ -1,3 +1,9 @@
+A College Event Showcase Website, Made using React.Js and Bootstrap
+
+Link: https://blazegcteie.tech/
+
+To run Locally:
+
 Step 1: clone the repository
 
 Step 2: cd Blaze
