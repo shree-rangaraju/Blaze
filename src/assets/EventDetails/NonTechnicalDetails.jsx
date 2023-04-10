@@ -17,11 +17,12 @@ export default {
       3. Films once entered cannot be withdrawn.
       
       4. There is no particular theme for the short film.
-      The duration for the short film must be from 3 minutes - 18 minutes.
+      
+      5. The duration for the short film must be from 3 minutes - 18 minutes.
 
-      5. The short film must be original and no watermark of any kind should be on the film.
+      6. The short film must be original and no watermark of any kind should be on the film.
 
-      6. Adult content of any kind will not be entertained and would lead to direct disqualification.`,
+      7. Adult content of any kind will not be entertained and would lead to direct disqualification.`,
       submissionDetails: `Last date submission on 18th April 2023.`,
       roundDetails: ``,
       judgingParameter: `1. Films will be judged entirely on the concept, technical aspects etc.
