@@ -161,7 +161,7 @@ export default {
 
       3. All teams should be on time for their presentation slot.
 
-      4. No copying of ideas from internet is not appreciable.`,
+      4. Copying of ideas from internet is not appreciable.`,
       submissionDetails: ``,
       roundDetails: ``,
       judgingParameter: `Evaluation will be based on level of thinking of the participants and the feasibility to implement that in real time. Make sure your idea will benefit target users where the solution is needed.`,
@@ -172,7 +172,7 @@ export default {
       
       The registration fee is non - refundable.`,
       rewards: `The Winners are awarded with exciting cash prizes.`,
-      gformLink: `https://forms.gle/JaEoTViSsGfLEWNt8`,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },

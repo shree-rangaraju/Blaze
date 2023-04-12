@@ -108,6 +108,9 @@ a {
   #split {
     display: none;
   }
+  .contactNumber {
+    flex-direction: column !important;
+  }
 }
 
 @media (max-width: 576px) {
@@ -158,4 +161,5 @@ a {
   color: transparent;
   font-size: 100px;
   font-weight: bold;
+  animation: animate 15s ease-in-out infinite;
 }

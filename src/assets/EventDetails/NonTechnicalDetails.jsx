@@ -39,7 +39,7 @@ export default {
       2.Selected top 2 film will be shortlisted and screened in the Blaze funtion. 
 
       3.Trophies along with certificates will be awarded for overall excellence to the best cinematography and director(s) of two short films chosen by judges.`,
-      gformLink: `https://forms.gle/X98ov5Jhhi1uvJhKA`,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSeXcTtLQe4kdjY9EYyzD-zjUUlJSvMO3jzXtqQT_qnkMVPC-Q/viewform?usp=sf_link`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },
@@ -84,7 +84,7 @@ export default {
       
       The registration fee is non - refundable.`,
       rewards: `The Winners are awarded with exciting cash prizes.`,
-      gformLink: `https://forms.gle/9WVkKb1wJeea3FsL8`,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSeA5E4fvQ0c6Tl5YNlOI37SeSHjO-ZNarAOD4LTq1JIk7GB0w/viewform?usp=sf_link`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },
@@ -98,11 +98,11 @@ export default {
       eventLongDetails: `Get ready to unleash your inner detective and join us for an exciting word hunt adventure! Follow the clues, solve the puzzles, and race against the clock to be crowned the ultimate word hunter. Don't miss out on the thrill of the hunt!`,
       eventMode: `Offline`,
       rules: ``,
-      guidelines: `1.The team should be a maximum of 2.
+      guidelines: `1. The team should be a maximum of 2.
 
-      2.The participants should complete the segments within a stipulated time. (If needed hints will be given). 
+      2. The participants should complete the segments within a stipulated time. (If needed hints will be given). 
 
-      3.Further updates about the event will be given on spot.`,
+      3. Further updates about the event will be given on spot.`,
       submissionDetails: ``,
       roundDetails: ``,
       judgingParameter: ``,
@@ -110,7 +110,7 @@ export default {
       Iswarya S  :  +91 73396 35828`,
       registrationFee: `Free Registration.`,
       rewards: `The Winners are awarded with certificates.`,
-      gformLink: `https://forms.gle/fj6Y6SQ6MLQGzpWP9`,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSf4HKrUiC28vrNrtRuYtq0SAdBLJbA1tEUbzZ5NOtJrxxDiZg/viewform?usp=sf_link`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },

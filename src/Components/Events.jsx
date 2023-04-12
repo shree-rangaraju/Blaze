@@ -8,11 +8,11 @@ export default function Events() {
           <h1 className="fs-1 mb-5"> Events </h1>
         </div>
         <div className="row row-cols-1 row-cols-md-2 g-5">
-          <div className="Technical">
+          <div className="Technical d-flex flex-column">
             <h2>TECHNICAL EVENTS</h2>
             <Technical />
           </div>
-          <div className="Non-Technical">
+          <div className="Non-Technical d-flex flex-column">
             <h2>NON TECHNICAL EVENTS</h2>
             <NonTechnical />
           </div>

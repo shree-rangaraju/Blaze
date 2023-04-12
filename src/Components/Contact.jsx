@@ -8,17 +8,18 @@ export default function Contact() {
       <h5>
         Function <br /> Co-ordinators
       </h5>
-      <div className="container d-flex justify-content-evenly align-items-center contactNumbers mt-3">
-        <div>
-          <h3 className="fw-light">Ram Bharath</h3>
-          <h6 className="fw-light mt-3">+91 95008 88216</h6>
-        </div>
-        <div>
-          <h3 className="fw-light">Ramya</h3>
-          <h6 className="fw-light mt-3">+91 94892 32269</h6>
-        </div>
+      <div className="container d-flex justify-content-evenly align-items-center mt-3 contactNumber">
+        <h6 className="fw-light fs-2">
+          Ram Bharath <br />
+          <span className="fw-light fs-4">+91 95008 88216</span>
+        </h6>
+
+        <h6 className="fw-light fs-2">
+          Ramya <br />
+          <span className="fw-light fs-4">+91 94892 32269</span>
+        </h6>
       </div>
-      <h5 className="mt-3">Social Media</h5>
+      <h5 className="mt-3">Contact us</h5>
       <div className="container">
         <a href="https://www.linkedin.com/company/electronics-and-instrumentation-engineering-gct/about/">
           <img
@@ -30,6 +31,12 @@ export default function Contact() {
           <img
             src="https://img.icons8.com/fluency/48/null/instagram-new.png"
             alt="instagram icon"
+          />
+        </a>
+        <a href="mailto:gct.blaze@gmail.com" className="ms-3">
+          <img
+            src="https://img.icons8.com/color/48/null/gmail--v1.png"
+            alt="gmail icon"
           />
         </a>
       </div>

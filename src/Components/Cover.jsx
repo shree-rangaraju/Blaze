@@ -16,7 +16,7 @@ export default function Cover() {
           </a>
         </p>
         <div>
-          <h1 className="fs-3 fw-bold">
+          <h1 className="fs-3">
             POOL PRIZE WORTH
             <br />
             <div className="cash">
@@ -27,7 +27,7 @@ export default function Cover() {
                 &#8377;
               </h1>
               &nbsp; &nbsp;
-              <h1 style={{ display: "inline" }}>15000</h1>
+              <h1 style={{ display: "inline" }}>15,000</h1>
             </div>
           </h1>
         </div>
