@@ -141,7 +141,7 @@ export default {
       
       The registration fee is non - refundable.`,
       rewards: `The Winners are awarded with exciting cash prizes.`,
-      gformLink: `https://forms.gle/6ZNW6RhA6LS3xwDN8`,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSeWcznHDjTE1PmhffK8fm6vVRmT_JmTtnFuPrBul2w-k1h6zA/viewform?usp=sf_link`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },

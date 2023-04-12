@@ -109,7 +109,7 @@ export default {
       contactDetails: `Sandhiya S  : +91 76049 51388
       Iswarya S  :  +91 73396 35828`,
       registrationFee: `Free Registration.`,
-      rewards: `The Winners are awarded with exciting cash prizes.`,
+      rewards: `The Winners are awarded with certificates.`,
       gformLink: `https://forms.gle/fj6Y6SQ6MLQGzpWP9`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,

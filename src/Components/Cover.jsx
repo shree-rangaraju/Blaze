@@ -15,12 +15,20 @@ export default function Cover() {
             Take me to events
           </a>
         </p>
-        <div className="">
-          <h1 className="fs-1 fw-bold">
+        <div>
+          <h1 className="fs-3 fw-bold">
             POOL PRIZE WORTH
             <br />
-            <img src="https://img.icons8.com/plasticine/100/null/money.png" />
-            <span className="fs-1 symbol"> &#8377; </span>15000
+            <div className="cash">
+              <h1
+                className="symbol"
+                style={{ fontSize: "120px !important", display: "inline" }}
+              >
+                &#8377;
+              </h1>
+              &nbsp; &nbsp;
+              <h1 style={{ display: "inline" }}>15000</h1>
+            </div>
           </h1>
         </div>
         <div className="d-flex justify-content-evenly coverEvent">
