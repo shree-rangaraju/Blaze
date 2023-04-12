@@ -147,3 +147,25 @@ export default {
     },
   ],
 };
+
+// {
+//   id: ,
+//   eventIdName: ``,
+//   eventName: ``,
+//   eventImage: ``,
+//   eventDate: ``,
+//   eventShortDetails: ``,
+//   eventLongDetails: ``,
+//   eventMode: ``,
+//   rules: ``,
+//   guidelines: ``,
+//   submissionDetails: ``,
+//   roundDetails: ``,
+//   judgingParameter: [],
+//   contactDetails: ``,
+//   registrationFee: ``,
+//   rewards: ``,
+//   gformLink: ``,
+//   registrationDeadLine: ``,
+//   submissionDeadLine: ``,
+// }
