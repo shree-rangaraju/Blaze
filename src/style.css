@@ -138,3 +138,7 @@ a {
     font-size: 100% !important;
   }
 }
+
+.symbol {
+  font-family: Arial, Helvetica, sans-serif !important;
+}

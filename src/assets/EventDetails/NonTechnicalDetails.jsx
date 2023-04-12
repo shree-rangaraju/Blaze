@@ -34,7 +34,7 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non-refundable.`,
-      rewards: `1. The Winners are awarded with pool price of Rs.3000/-
+      rewards: `1. The Winners are awarded with exciting cash prizes.
       
       2.Selected top 2 film will be shortlisted and screened in the Blaze funtion. 
 
@@ -83,8 +83,62 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners are awarded with pool price of Rs.3000/-`,
+      rewards: `The Winners are awarded with exciting cash prizes.`,
       gformLink: `https://forms.gle/9WVkKb1wJeea3FsL8`,
+      registrationDeadLine: `18 April, 2023`,
+      submissionDeadLine: ``,
+    },
+    {
+      id: 2,
+      eventIdName: `wordhunt`,
+      eventName: `WORD HUNT`,
+      eventImage: `https://images.unsplash.com/photo-1592431913823-7af6b323da9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80`,
+      eventDate: `20 April, 2023`,
+      eventShortDetails: `Get ready to unleash your inner detective and join us for an exciting word hunt adventure! Follow the clues, solve the puzzles, and race against the clock to be crowned the ultimate word hunter. Don't miss out on the thrill of the hunt!`,
+      eventLongDetails: `Get ready to unleash your inner detective and join us for an exciting word hunt adventure! Follow the clues, solve the puzzles, and race against the clock to be crowned the ultimate word hunter. Don't miss out on the thrill of the hunt!`,
+      eventMode: `Offline`,
+      rules: ``,
+      guidelines: `1.The team should be a maximum of 2.
+
+      2.The participants should complete the segments within a stipulated time. (If needed hints will be given). 
+
+      3.Further updates about the event will be given on spot.`,
+      submissionDetails: ``,
+      roundDetails: ``,
+      judgingParameter: ``,
+      contactDetails: `Sandhiya S  : +91 76049 51388
+      Iswarya S  :  +91 73396 35828`,
+      registrationFee: `Free Registration.`,
+      rewards: `The Winners are awarded with exciting cash prizes.`,
+      gformLink: `https://forms.gle/fj6Y6SQ6MLQGzpWP9`,
+      registrationDeadLine: `18 April, 2023`,
+      submissionDeadLine: ``,
+    },
+    {
+      id: 3,
+      eventIdName: `neeyanaana`,
+      eventName: `NEEYA NAANA`,
+      eventImage: `https://images.unsplash.com/photo-1561489396-888724a1543d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80`,
+      eventDate: `20 April, 2023`,
+      eventShortDetails: `Neeya Naana is an event where one can express their unbiased views on the given topic. Participants are free to voice out their opinions based on their perspectives.`,
+      eventLongDetails: `Neeya Naana is an event where one can express their unbiased views on the given topic. Participants are free to voice out their opinions based on their perspectives.`,
+      eventMode: `Offline`,
+      rules: ``,
+      guidelines: `1. Aligations and controversial messages should not passed.
+
+      2. No individuals should be harmed directly or  indirectly.
+
+      3. No rebellious speech exchanges are allowed.`,
+      submissionDetails: ``,
+      roundDetails: ``,
+      judgingParameter: `Judging will be based on the enthusiastic participation and facts conveyed by the participants. Jury's decision is final. Exciting rewards are awaiting for you.`,
+      contactDetails: `Chandan Vignesh K V : +91 94923 57808
+      Daniel Vasanthan S : +91 94438 66138`,
+      registrationFee: `Registration fee is Rs.50/-.
+      
+      The registration fee is non - refundable.`,
+      rewards: ``,
+      gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfAvMJoFWQHHqCoeKDO4phExeK36DEIzs4M1OZIFRD8k68KYg/viewform?vc=0&c=0&w=1&flr=0`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },

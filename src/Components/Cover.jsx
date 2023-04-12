@@ -3,9 +3,7 @@ export default function Cover() {
   return (
     <section className="py-5 text-center container d-flex justify-content-center align-items-center">
       <div className="row py-lg-5">
-        <h6 className="fw-light mt-5">
-          The Department of EIE cordially presents...
-        </h6>
+        <h6 className="fw-light mt-5">The Department of EIE presents...</h6>
         <div className="text-container">
           <h1>Blaze</h1>
         </div>
@@ -17,13 +15,21 @@ export default function Cover() {
             Take me to events
           </a>
         </p>
+        <div className="">
+          <h1 className="fs-1 fw-bold">
+            POOL PRIZE WORTH
+            <br />
+            <img src="https://img.icons8.com/plasticine/100/null/money.png" />
+            <span className="fs-1 symbol"> &#8377; </span>15000
+          </h1>
+        </div>
         <div className="d-flex justify-content-evenly coverEvent">
           <span className="fw-bold fs-1">
-            3
+            4
             <br /> <h4 className="typeEvents">Tech Events </h4>
           </span>
           <span className="fw-bold fs-1">
-            2
+            4
             <br /> <h4 className="typeEvents">Non-Tech Events </h4>
           </span>
         </div>

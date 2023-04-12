@@ -55,9 +55,9 @@ export default {
       For non-GCTians: Rs.300 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners are awarded with pool price of Rs.5000/-`,
+      rewards: `The Winners are awarded with exciting cash prizes.`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfXbijpq0IqPV84YsfenvBnrHHVXPCEsJpOQUbQMUjVu5TSKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link `,
-      registrationDeadLine: `16 April, 2023`,
+      registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },
     {
@@ -105,7 +105,7 @@ export default {
       For non-GCTians: Rs.150/-
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners and Runners are awarded with pool price of Rs.3000/- and Certificate of Achievement.
+      rewards: `The Winners are awarded with exciting cash prizes and Certificate of Achievement.
 
       Other participants are provided with participation certificate.`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLScPm2-uOa6kwnWEjZd0MDzgyP8Re7-y26rxgv_FF6nkqZhiQg/viewform?vc=0&c=0&w=1&flr=0`,
@@ -140,9 +140,40 @@ export default {
       For non-GCTians: Rs.200 per team.
       
       The registration fee is non - refundable.`,
-      rewards: `The Winners are awarded with pool price of Rs.2000/-`,
+      rewards: `The Winners are awarded with exciting cash prizes.`,
       gformLink: `https://forms.gle/6ZNW6RhA6LS3xwDN8`,
-      registrationDeadLine: `16 April, 2023`,
+      registrationDeadLine: `18 April, 2023`,
+      submissionDeadLine: ``,
+    },
+    {
+      id: 3,
+      eventIdName: `paperpresentation`,
+      eventName: `PAPER PRESENTATION`,
+      eventImage: `https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80`,
+      eventDate: `20 April, 2023`,
+      eventShortDetails: `Paper presentation is an event where one can find an innovative approach to the modern world problem thereby finding a solution. This ensures the participants to come up with to innovative solution and encourages them to implement it further.`,
+      eventLongDetails: `Paper presentation is an event where one can find an innovative approach to the modern world problem thereby finding a solution. This ensures the participants to come up with to innovative solution and encourages them to implement it further.`,
+      eventMode: `Offline`,
+      rules: ``,
+      guidelines: `1. Juries decision is final decision.
+
+      2. Any unethical activity leads to disqualification of the whole team.
+
+      3. All teams should be on time for their presentation slot.
+
+      4. No copying of ideas from internet is not appreciable.`,
+      submissionDetails: ``,
+      roundDetails: ``,
+      judgingParameter: `Evaluation will be based on level of thinking of the participants and the feasibility to implement that in real time. Make sure your idea will benefit target users where the solution is needed.`,
+      contactDetails: `Subhaakar K R  :  +91 70945 76650
+      Sanjay R  :  +91 90924 99970`,
+      registrationFee: `For GCTians: Rs.200 per team.
+      For non-GCTians: Rs.250 per team.
+      
+      The registration fee is non - refundable.`,
+      rewards: `The Winners are awarded with exciting cash prizes.`,
+      gformLink: `https://forms.gle/JaEoTViSsGfLEWNt8`,
+      registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
     },
   ],
