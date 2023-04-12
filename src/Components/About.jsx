@@ -15,7 +15,7 @@ export default function About() {
           Blaze is an inter college event organized by the Department of
           Electronics and Instrumentation Engineering of GCT, Coimbatore to
           ensure the active participation of the students of other colleges in
-          our events and to develop friendly relationship with the neighboring
+          our events and to develop friendly relationship with the neighbouring
           colleges.
           <br />
           <br /> Now feeling excited to take part in a celebration filled with
