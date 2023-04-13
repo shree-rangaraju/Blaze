@@ -165,7 +165,7 @@ export default {
       
       5. The participants should utilize the time effectively as follows:  7 minutes for presentation and 3 minutes for Q&A.
       
-      6. Juries decision is final decision.
+      6. The Jury's decision is final.
 
       7. Copying of ideas from internet is not appreciable.`,
       submissionDetails: ``,
