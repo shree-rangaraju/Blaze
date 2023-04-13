@@ -155,13 +155,19 @@ export default {
       eventLongDetails: `Paper presentation is an event where one can find an innovative approach to the modern world problem thereby finding a solution. This ensures the participants to come up with to innovative solution and encourages them to implement it further.`,
       eventMode: `Offline`,
       rules: ``,
-      guidelines: `1. Juries decision is final decision.
+      guidelines: `1. The participating team must contain a maximum of 3 members.
+      
+      2. All team members should be present on time for their presentation slot.
+      
+      3. Any unethical activity leads to disqualification of the whole team.
+      
+      4. The presentation should last only for 10 minutes.
+      
+      5. The participants should utilize the time effectively as follows:  7 minutes for presentation and 3 minutes for Q&A.
+      
+      6. Juries decision is final decision.
 
-      2. Any unethical activity leads to disqualification of the whole team.
-
-      3. All teams should be on time for their presentation slot.
-
-      4. Copying of ideas from internet is not appreciable.`,
+      7. Copying of ideas from internet is not appreciable.`,
       submissionDetails: ``,
       roundDetails: ``,
       judgingParameter: `Evaluation will be based on level of thinking of the participants and the feasibility to implement that in real time. Make sure your idea will benefit target users where the solution is needed.`,
