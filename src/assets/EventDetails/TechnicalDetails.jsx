@@ -163,7 +163,8 @@ export default {
       
       4. The presentation should last only for 10 minutes.
       
-      5. The participants should utilize the time effectively as follows:  7 minutes for presentation and 3 minutes for Q&A.
+      5. The participants should utilize the time effectively as follows:
+         7 minutes for presentation and 3 minutes for Q&A.
       
       6. The Jury's decision is final.
 
