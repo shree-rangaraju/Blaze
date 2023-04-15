@@ -27,7 +27,7 @@ export default function Contact() {
             alt="linkedin icon"
           />
         </a>
-        <a href="https://www.instagram.com/instrumentators/" className="ms-3">
+        <a href="https://www.instagram.com/eiea_gct/" className="ms-3">
           <img
             src="https://img.icons8.com/fluency/48/null/instagram-new.png"
             alt="instagram icon"
