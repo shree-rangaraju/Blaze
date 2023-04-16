@@ -27,11 +27,12 @@ export default function Cover() {
           <h4 className="fw-light fs-5 mobileSizeOffer">Paper Presentation
           <br />+
           <br />All Non-tech Events
-          <br className="mt-5"/><strong>Price to Catch</strong>
+          <br />
+          <br /><strong className="fs-4">Price to Catch</strong>
           </h4>
           <div className="d-flex justify-content-evenly splitColumn">
-            <h4 className="fw-light fs-5 mobileSize">Rs.250 For Non-GCTians
-            <br />Rs.200 For GCTians</h4>
+            <h4 className="fw-light fs-5 mobileSizeOffer">Rs.250 For Non-GCTians</h4>
+            <h4 className="fw-light fs-5 mobileSizeOffer">Rs.200 For GCTians</h4>
           </div>
           <a className="btn btn-outline-light mt-3" href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform">Take me In</a>
         </div>
