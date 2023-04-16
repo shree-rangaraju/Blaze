@@ -1,8 +1,13 @@
 import CountDownTimer from "./CountDownTimer";
 export default function Cover() {
+  const regisStyle={
+    width: "70%",
+    borderRadius: "20px",
+    backgroundColor: "#0b0d12"
+  }
   return (
     <section className="py-5 text-center container d-flex justify-content-center align-items-center">
-      <div className="row py-lg-5">
+      <div className="row py-lg-5  d-flex justify-content-center">
         <h6 className="fw-light mt-5">The Department of EIE presents...</h6>
         <div className="text-container">
           <h1>Blaze</h1>
@@ -15,6 +20,21 @@ export default function Cover() {
             Take me to events
           </a>
         </p>
+        {/*  */}
+        <div style={regisStyle} className="my-5 py-3">
+          <div className="text-container">
+            <h1 className="fs-2">Combo Offer</h1>
+          </div>
+          <h4 className="fw-light fs-5 mb-0 mobileSize">Paper Presentation</h4>
+          <h4 className="fw-light my-0 fs-5 mobileSize">+</h4>
+          <h4 className="fw-light fs-5 mobileSize">All Non-tech Events</h4>
+          <h4 className="fw-light fs-5 mobileSize">Price to Catch</h4>
+          <div className="d-flex justify-content-evenly contactNumber">
+            <h4 className="fw-light fs-5 mobileSize">Rs.250 For Non-GCTians</h4>
+            <h4 className="fw-light fs-5 mobileSize">Rs.200 For GCTians</h4>
+          </div>
+          <button className="btn btn-outline-light mt-3" href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform">Take me In</button>
+        </div>
         <div>
           <h1 className="fs-3">
             POOL PRIZE WORTH
