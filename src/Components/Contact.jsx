@@ -8,7 +8,7 @@ export default function Contact() {
       <h5>
         Function <br /> Co-ordinators
       </h5>
-      <div className="container d-flex justify-content-evenly align-items-center mt-3 contactNumber">
+      <div className="container d-flex justify-content-evenly align-items-center mt-3 splitColumn">
         <h6 className="fw-light fs-2">
           Ram Bharath <br />
           <span className="fw-light fs-4">+91 95008 88216</span>

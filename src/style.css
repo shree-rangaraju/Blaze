@@ -108,7 +108,7 @@ a {
   #split {
     display: none;
   }
-  .contactNumber {
+  .splitColumn {
     flex-direction: column !important;
   }
 }
@@ -123,6 +123,9 @@ a {
   }
   .mobileSize {
     font-size: 80% !important;
+  }
+  .mobileSizeOffer{
+    font-size: 95% !important;
   }
   .cash h1 {
     font-size: 80px !important;

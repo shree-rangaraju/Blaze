@@ -20,20 +20,20 @@ export default function Cover() {
             Take me to events
           </a>
         </p>
-        {/*  */}
-        <div style={regisStyle} className="my-5 py-3">
+        <div style={regisStyle} className="my-5 py-3 fw-light">
           <div className="text-container">
             <h1 className="fs-2">Combo Offer</h1>
           </div>
-          <h4 className="fw-light fs-5 mb-0 mobileSize">Paper Presentation</h4>
-          <h4 className="fw-light my-0 fs-5 mobileSize">+</h4>
-          <h4 className="fw-light fs-5 mobileSize">All Non-tech Events</h4>
-          <h4 className="fw-light fs-5 mobileSize">Price to Catch</h4>
-          <div className="d-flex justify-content-evenly contactNumber">
-            <h4 className="fw-light fs-5 mobileSize">Rs.250 For Non-GCTians</h4>
-            <h4 className="fw-light fs-5 mobileSize">Rs.200 For GCTians</h4>
+          <h4 className="fw-light fs-5 mobileSizeOffer">Paper Presentation
+          <br />+
+          <br />All Non-tech Events
+          <br className="mt-5"/><strong>Price to Catch</strong>
+          </h4>
+          <div className="d-flex justify-content-evenly splitColumn">
+            <h4 className="fw-light fs-5 mobileSize">Rs.250 For Non-GCTians
+            <br />Rs.200 For GCTians</h4>
           </div>
-          <button className="btn btn-outline-light mt-3" href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform">Take me In</button>
+          <a className="btn btn-outline-light mt-3" href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform">Take me In</a>
         </div>
         <div>
           <h1 className="fs-3">
