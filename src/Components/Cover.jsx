@@ -1,8 +1,13 @@
 import CountDownTimer from "./CountDownTimer";
 export default function Cover() {
+  const regisStyle = {
+    width: "70%",
+    borderRadius: "20px",
+    backgroundColor: "#0b0d12",
+  };
   return (
     <section className="py-5 text-center container d-flex justify-content-center align-items-center">
-      <div className="row py-lg-5">
+      <div className="row py-lg-5  d-flex justify-content-center">
         <h6 className="fw-light mt-5">The Department of EIE presents...</h6>
         <div className="text-container">
           <h1>Blaze</h1>
@@ -12,9 +17,37 @@ export default function Cover() {
         </p>
         <p>
           <a href="#Events" className="btn btn-outline-light my-2">
-            Take me to events
+            Take me to Events
           </a>
         </p>
+        <div style={regisStyle} className="my-5 py-3 fw-light">
+          <div className="text-container">
+            <h1 className="fs-1">Combo Offer</h1>
+          </div>
+          <h4 className="fw-light fs-5 mobileSizeOffer">
+            <strong className="fw-bold fs-5">Paper Presentation</strong>
+            <br />+
+            <br />
+            <strong className="fw-bold fs-5">All Non-tech Events</strong>
+            <br />
+            <br />
+            <strong className="fs-4">PRICE TO CATCH!</strong>
+          </h4>
+          <div className="d-flex justify-content-evenly splitColumn">
+            <h4 className="fw-light fs-5 mobileSizeOffer">
+              <strong className="fw-bold">Rs.250</strong> For Non-GCTians
+            </h4>
+            <h4 className="fw-light fs-5 mobileSizeOffer">
+              <strong className="fw-bold">Rs.200</strong> For GCTians
+            </h4>
+          </div>
+          <a
+            className="btn btn-outline-light mt-3"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform"
+          >
+            Take me in!
+          </a>
+        </div>
         <div>
           <h1 className="fs-3">
             POOL PRIZE WORTH

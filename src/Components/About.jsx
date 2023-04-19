@@ -19,7 +19,7 @@ export default function About() {
           colleges.
           <br />
           <br /> Now feeling excited to take part in a celebration filled with
-          laughter , fun and even more informative things? Through music, dance,
+          laughter, fun and even more informative things? Through music, dance,
           and performances, we hope to celebrate and embrace our differences
           while also promoting inclusivity and understanding.
           <br /> So mark your calendars and get ready for a day to remember.

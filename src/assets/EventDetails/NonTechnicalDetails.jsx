@@ -79,8 +79,8 @@ export default {
       judgingParameter: `The judging will be based on the teammate's involvement, compatibility, and how effectively they showcase their skills.`,
       contactDetails: `Kanitha M : +91 93608 76166
       Jeevakesavan D : +91 87607 52082`,
-      registrationFee: `For GCTians: Rs.150 per team.
-      For non-GCTians: Rs.200 per team.
+      registrationFee: `For GCTians: Rs.100 per team.
+      For non-GCTians: Rs.150 per team.
       
       The registration fee is non - refundable.`,
       rewards: `The Winners are awarded with exciting cash prizes.`,
@@ -137,7 +137,7 @@ export default {
       registrationFee: `Registration fee is Rs.50/-.
       
       The registration fee is non - refundable.`,
-      rewards: ``,
+      rewards: `The Winners are awarded with exciting rewards.`,
       gformLink: `https://docs.google.com/forms/d/e/1FAIpQLSfAvMJoFWQHHqCoeKDO4phExeK36DEIzs4M1OZIFRD8k68KYg/viewform?vc=0&c=0&w=1&flr=0`,
       registrationDeadLine: `18 April, 2023`,
       submissionDeadLine: ``,
