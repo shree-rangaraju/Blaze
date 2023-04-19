@@ -41,12 +41,14 @@ export default function Cover() {
               <strong className="fw-bold">Rs.200</strong> For GCTians
             </h4>
           </div>
-          <a
+          {/* <a
             className="btn btn-outline-light mt-3"
             href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform"
           >
             Take me in!
-          </a>
+          </a> */}
+          <strong className="fs-4">On the Spot Registration Avalable!*</strong>
+          <p>*Except for PCB Design</p>
         </div>
         <div>
           <h1 className="fs-3">

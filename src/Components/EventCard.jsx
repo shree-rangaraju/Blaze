@@ -39,15 +39,15 @@ export default function EventCard({
             <p className="card-text detailColor">{eventShortDetails}</p>
             <div className="d-flex justify-content-between align-items-center">
               <button
-                className="btn btn-outline-light btn-md"
+                className="btn btn-outline-light btn-md mx-auto"
                 data-bs-toggle="modal"
                 data-bs-target={"#" + eventIdName}
               >
                 Know More
               </button>
-              <a href={gformLink} className="btn btn-light btn-md">
+              {/* <a href={gformLink} className="btn btn-light btn-md">
                 Register
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
@@ -171,14 +171,14 @@ export default function EventCard({
             <div className="modal-footer d-flex justify-content-between">
               <button
                 type="button"
-                className="btn btn-outline-light btn-md"
+                className="btn btn-outline-light btn-md mx-auto"
                 data-bs-dismiss="modal"
               >
                 Close
               </button>
-              <a href={gformLink} className="btn btn-light btn-md">
+              {/* <a href={gformLink} className="btn btn-light btn-md">
                 Register Now!
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
