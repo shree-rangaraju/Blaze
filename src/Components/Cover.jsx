@@ -41,7 +41,7 @@ export default function Cover() {
             <br /> <h4 className="typeEvents">Non-Tech Events </h4>
           </span>
         </div>
-        <h3 className="fw-light mt-3"> Coming Soon!</h3>
+        <h3 className="fw-light mt-3"> Today's The Day!</h3>
         <div className="d-flex align-items-center justify-content-center mt-3 mb-3  ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +56,7 @@ export default function Cover() {
           </svg>
           <span className="detailColor ms-2 fs-5">20 April, 2023</span>
         </div>
-        <CountDownTimer />
+        {/* <CountDownTimer /> */}
       </div>
     </section>
   );
