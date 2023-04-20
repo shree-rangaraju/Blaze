@@ -20,7 +20,7 @@ export default function Cover() {
             Take me to Events
           </a>
         </p>
-        <div style={regisStyle} className="my-5 py-3 fw-light">
+        {/* <div style={regisStyle} className="my-5 py-3 fw-light">
           <div className="text-container">
             <h1 className="fs-1">Combo Offer</h1>
           </div>
@@ -41,12 +41,12 @@ export default function Cover() {
               <strong className="fw-bold">Rs.200</strong> For GCTians
             </h4>
           </div>
-          {/* <a
+          <a
             className="btn btn-outline-light mt-3"
             href="https://docs.google.com/forms/d/e/1FAIpQLSfYH5wQ9_T14zNhg8-nTnU4phKy5RapB1RRT62Zi_0qtweBxw/viewform"
           >
             Take me in!
-          </a> */}
+          </a>
           <strong className="fs-4">On the Spot Registration Avalable!*</strong>
           <p>*Except for PCB Design</p>
         </div>
@@ -75,8 +75,8 @@ export default function Cover() {
             4
             <br /> <h4 className="typeEvents">Non-Tech Events </h4>
           </span>
-        </div>
-        <h3 className="fw-light mt-3"> Today's The Day!</h3>
+        </div> */}
+        <h3 className="fw-light mt-3"> Blaze 2K23 is Over! </h3>
         <div className="d-flex align-items-center justify-content-center mt-3 mb-3  ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -89,7 +89,9 @@ export default function Cover() {
             <path d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z" />
             <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
           </svg>
-          <span className="detailColor ms-2 fs-5">20 April, 2023</span>
+          <span className="detailColor ms-2 fs-5">
+            Stay Tuned for Blaze 2K24!
+          </span>
         </div>
         {/* <CountDownTimer /> */}
       </div>
